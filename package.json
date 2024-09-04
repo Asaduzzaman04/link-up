@@ -1,0 +1,19 @@
+{
+  "name": "linkup",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "vite",
+    "build" : "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4",
+    "vite": "^5.3.1"
+  }
+}
